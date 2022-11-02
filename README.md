@@ -1,3 +1,4 @@
+## Description
 Using the MapReduce concepts you are going to write a python program that will index a set of documents (Provided Below) and create a main function that takes input from a user to search the frequencies of the input (word(s)) in these documents. You are also provided a list of stopwords that you have to remove from each file. 
 
 For example,
